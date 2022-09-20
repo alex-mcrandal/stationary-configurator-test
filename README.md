@@ -1,0 +1,1 @@
+# stationary-configurator-test
